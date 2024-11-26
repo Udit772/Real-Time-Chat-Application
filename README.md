@@ -9,12 +9,19 @@ Welcome to the Real-Time Chat Application! This project is designed to provide u
 * Customizable Chat Rooms: Join or create rooms for group conversations.
 * Scalable Backend: Handles multiple users simultaneously with ease.
 * Clean UI/UX: User-friendly design for smooth navigation and usability.
+
 🚀 Tech Stack
+
 Frontend
+
 * HTML5, CSS3, JavaScript
+  
 Backend
+
 * Node.js
 * Express.js
+  
 Real-Time Communication
+
 * Socket.IO
  
